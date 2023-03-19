@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Random Cat Generator</string>
+    <string name="welcome_to_my_app">Welcome to my app</string>
+    <string name="in_this_app">In this app you will get random images of cats.</string>
+    <string name="i_want_to_see_cats">I want to see cats!</string>
+    <string name="get_a_cat">Get a cat</string>
+    <string name="returnback">Return</string>
+    <string name="image_url">Image URL</string>
+    <string name="images_from">Images from: https://cataas.com/#/</string>
+    <string name="noURL">No URL</string>
+</resources>

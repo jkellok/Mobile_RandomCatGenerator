@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Satunnaisen kissan generaattori</string>
+    <string name="welcome_to_my_app">Tervetuloa sovellukseeni</string>
+    <string name="i_want_to_see_cats">Haluan nähdä kissoja!</string>
+    <string name="get_a_cat">Päivitä kissakuva</string>
+    <string name="returnback">Palaa takaisin</string>
+    <string name="image_url">Kuvan osoite</string>
+    <string name="images_from">Kuvat osoitteesta: https://cataas.com/#/</string>
+    <string name="in_this_app">Tässä sovelluksessa saat satunnaisia kuvia kissoista.</string>
+    <string name="noURL">URL puuttuu</string>
+</resources>
