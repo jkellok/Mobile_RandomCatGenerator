@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ランダム猫ジェネレーター</string>
+    <string name="welcome_to_my_app">私のアプリへようこそ</string>
+    <string name="i_want_to_see_cats">猫の写真が見たい</string>
+    <string name="get_a_cat">猫の写真を更新</string>
+    <string name="returnback">戻る</string>
+    <string name="image_url">画像のURL</string>
+    <string name="images_from">https://cataas.com/#/ からの画像</string>
+    <string name="in_this_app">このアプリでは、猫のランダムな画像を取得します</string>
+    <string name="noURL">URLなし</string>
+</resources>
